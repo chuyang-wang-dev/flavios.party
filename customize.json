@@ -1,6 +1,6 @@
 {
-  "greeting": "Hallo Flavio!",
-  "name": "Flavio",
+  "greeting": "Greeting ERROR 404",
+  "name": "Ups... Flavio",
   "greetingText": "Wie du weißt, hast du heute Geburtstag. Kompiliere die Glückwünsche...",
   "wishText": "Leider haben wir die Grußkarte vergessen, denn unser Server hat auf 404 gesetzt.",
   "imagePath": "img/lydia2.png",
@@ -17,7 +17,7 @@
   "bigTextPart1": "A",
   "bigTextPart2": "L",
   "wishHeading": "Happy Birthday, Flavio!",
-  "outroText": "Okay, jetzt logge dich zurück ins Real Life ein und sag mir, ob es dir gefallen hat.",
+  "outroText": "Okay, jetzt logge dich zurück ins Real Life ein und sag uns, ob du Chuangs drucker reparieren kannst..",
   "replayText": "Oder klicke, wenn du es noch einmal erleben möchtest.",
   "outroSmiley": ":ooooooo)"
 }
